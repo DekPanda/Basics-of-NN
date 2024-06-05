@@ -1,0 +1,7 @@
+Task 1. VAE+GAN
+Develop a bundle of VAE and GAN to recover numbers from the MNIST dataset. In this case, VAE and GAN are not separate neural networks, but form a single pipeline with a triplex loss function
+
+Task 2. RNN
+Develop RNN, GRU and LSTM to predict Usage_kWh. Dataset - http://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption.
+Hyperparameters are at your discretion
+Compare the quality of the MSE, RMSE and R^2 models
